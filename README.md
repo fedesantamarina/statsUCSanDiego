@@ -1,1 +1,1 @@
-# statsUCSanDiego
+# Course Stats UC San Diego
